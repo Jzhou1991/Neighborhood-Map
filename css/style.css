@@ -1,0 +1,44 @@
+/*
+*	Jeffrey Zhou
+*	Udacity
+*	Front-End Web Developer Nanodegree Program
+*	Neighborhood Map Project
+*	7/15/17
+*/
+
+html, body {
+	font-family: Arial, sans-serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	height: 100%;
+}
+
+#wrapper {
+	background-color: #333;
+}
+
+#menu-toggle {
+	border: none;
+	background-color: #333;
+	outline: none;
+}
+
+.glyphicon-menu-hamburger {
+	color: #3490f5;
+}
+
+#search-box {
+	padding: 10 10 10 10;
+}
+
+.sidebar-brand {
+	text-align: center;
+}
+
+.row{
+	margin: 0 auto;
+}
